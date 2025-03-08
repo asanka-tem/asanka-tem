@@ -12,7 +12,7 @@
 - 🏴 I enjoy Capture The Flag (**CTF**) challenges & cloud security research  
 - 🔍 Passionate about **incident response, SIEM, and blue teaming**  
 - 📚 Currently learning **Threat Intelligence & Azure Security**  
-- 📫 **Contact me:** [your-email@example.com](mailto:your-email@example.com)  
+- 📫 **Contact me:** [asanka.tem@gmail.com](mailto:asanka.tem@gmail.com)  
 
 ---
 
