@@ -64,7 +64,7 @@ Here are some of the **open-source security tools** I have worked on:
 
 ### 🏆 TryHackMe Skill Matrix
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/asanka-tem.png" alt="TryHackMe Skill Matrix" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/asanka.tem.png" alt="TryHackMe Skill Matrix" />
 </p>
 
 ---
